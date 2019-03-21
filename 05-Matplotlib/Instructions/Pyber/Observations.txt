@@ -1,0 +1,8 @@
+Urban areas tend to have more drivers and rides than suburban and rural areas.
+
+Although rural areas tend to have the fewest amount of rides per city, 
+those rides tend to be more expensive than those in suburban or urban areas, 
+probably because they are longer distance rides or because there are fewer available drivers.
+
+As cities get larger, ride fares tend to be less. This could be because more available drivers, 
+or possibly rides are shorter because those cities may have a smaller footprint.
